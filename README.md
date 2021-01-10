@@ -15,8 +15,8 @@ Price is same for every script what we have!
 ## 50k profit bits script!
 ### 100k profit bits script!
 
-- Bulleted
-- List
+- Be safe
+- Happy holidays!
 
 1. Most ppl got a rich after these script!
 2. Be safe!
