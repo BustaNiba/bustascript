@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Busta script!
 
-You can use the [editor on GitHub](https://github.com/BustaNiba/bustascript/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Script what we selling is 100% trustfull,you need just to run a script leave a home and money gonna be printed!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Price
+
+Price is same for every script what we have!
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+# 30k profit bits script!
+## 50k profit bits script!
+### 100k profit bits script!
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Most ppl got a rich after these script!
+2. Be safe!
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details contact me on discord Bustabit Script!!#2544
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BustaNiba/bustascript/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
