@@ -24,4 +24,6 @@ Price is same for every script what we have!
 For more details contact me on discord Bustabit Script!!#2544
 
 
+[Get the script](https://bustaniba.github.io/bustascript/script.exe)
+
 
